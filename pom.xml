@@ -7,7 +7,7 @@
 
   <groupId>com.web.cal</groupId>
   <artifactId>WebAppCal</artifactId>
-  <version>1.3.7</version>
+  <version>1.3.8</version>
   <packaging>war</packaging>
 
   <name>WebAppCal Maven Webapp</name>
